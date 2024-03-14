@@ -1,0 +1,14 @@
+curly, 5
+curl, 5
+curls, 5
+roots, 5
+scalp, 4
+hair, 1
+density, 3
+protect, 2
+enhance, 2
+light, 4
+unscented, 4
+smooth, 2
+fresh, 2
+clean, 2

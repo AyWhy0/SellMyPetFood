@@ -1,0 +1,15 @@
+frizzy,5
+friz,5
+thin,5
+thinning,5
+weak,3
+silky,2
+shiny,2
+root,2
+shine,2
+unique,1
+hair,1
+fix,1
+best,1
+settle,1
+deserve,1
